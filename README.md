@@ -19,11 +19,7 @@ It helps users add creativity, fun, and wellness into their daily lives through 
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your app UI here
-
----
 
 ## 🛠 Built With
 
@@ -53,7 +49,7 @@ It helps users add creativity, fun, and wellness into their daily lives through 
 
 ## 🙌 Author
 
-Developed by [Your Name](https://www.linkedin.com/in/your-link/)  
+Developed by Jenil Prajapati(https://www.linkedin.com/in/your-link/)  
 GitHub: [rock64728](https://github.com/rock64728)
 
 ---
