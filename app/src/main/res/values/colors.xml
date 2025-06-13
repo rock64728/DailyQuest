@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>       <!-- e.g. Indigo -->
+    <color name="colorPrimaryVariant">#303F9F</color>
+    <color name="colorSecondary">#FF9800</color>    <!-- e.g. Orange accent -->
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+
+
+</resources>

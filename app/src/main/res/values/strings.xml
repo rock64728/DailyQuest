@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DailyQuest</string>
+
+    <string-array name="category_options">
+        <item>All</item>
+        <item>Health</item>
+        <item>Creativity</item>
+        <item>Connection</item>
+        <item>Fun</item>
+    </string-array>
+
+</resources>
